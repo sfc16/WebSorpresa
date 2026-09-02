@@ -12,7 +12,7 @@ const notas = [
     {
         fecha: "2026-09-03",
         titulo: "Calentando motores",
-        texto: "Pa que mañana entres a trabajar con un buen sabor de voca, qué mejor que el sabor del vino.",
+        texto: "Pa que mañana entres a trabajar con un buen sabor de boca, qué mejor que el sabor del vino.",
         spotifyTrackId: "15m2Op4d1ZtX0ScPaDNKcd"
     },
     {
