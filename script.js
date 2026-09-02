@@ -30,7 +30,7 @@ const notas = [
     {
         fecha: "2026-09-06",
         titulo: "De Despeñaperros pa'rriba",
-        texto: "Da igual los kilómetros o donde te pille el día: las costumbres buenas del sur se llevan por dentro.",
+        texto: "Da igual los kilómetros , las costumbres buenas del sur se llevan por dentro",
         spotifyTrackId: "5UOzQpO62ljPFDqquxGDqT"
     },
     {
